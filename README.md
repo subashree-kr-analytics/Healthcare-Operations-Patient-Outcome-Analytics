@@ -66,7 +66,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Billing and insurance insights
 - Financial KPI monitoring
 
-![Financial and Operational Analysis]()
+![Financial and Operational Analysis](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%204-Financial%20and%20Operational%20Analysis.png.png?raw=true)
 
 ---
 
