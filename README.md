@@ -44,7 +44,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Average treatment duration
 - Recovery and diagnosis trends
 
-![Doctors and Treatment Analysis](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%203-Patients%20Insights.png.png?raw=true)
+![Doctors and Treatment Analysis](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%202-Doctors%20and%20Treatment%20Analysis.png.png?raw=true)
 
 ---
 
