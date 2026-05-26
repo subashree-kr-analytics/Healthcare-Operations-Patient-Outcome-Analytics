@@ -33,7 +33,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Overall operational performance
 - Key healthcare metrics
 
-![Executive Overview](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%204-Financial%20and%20Operational%20Analysis.png.png?raw=true)
+![Executive Overview](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%201-Executive%20Overview.png.png?raw=true)
 
 ---
 
