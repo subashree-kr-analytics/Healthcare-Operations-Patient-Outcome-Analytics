@@ -33,7 +33,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Overall operational performance
 - Key healthcare metrics
 
-![Executive Overview](images/Executive_Overview.png)
+![Executive Overview](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%204-Financial%20and%20Operational%20Analysis.png.png?raw=true)
 
 ---
 
@@ -44,7 +44,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Average treatment duration
 - Recovery and diagnosis trends
 
-![Doctors and Treatment Analysis](images/Doctors_Treatment_Analysis.png)
+![Doctors and Treatment Analysis](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%203-Patients%20Insights.png.png?raw=true)
 
 ---
 
@@ -55,7 +55,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Patient satisfaction insights
 - Disease and admission trends
 
-![Patient Insights](images/Patient_Insights.png)
+![Patient Insights](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%202-Doctors%20and%20Treatment%20Analysis.png.png?raw=true)
 
 ---
 
@@ -66,7 +66,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Billing and insurance insights
 - Financial KPI monitoring
 
-![Financial and Operational Analysis](images/Financial_Operational_Analysis.png)
+![https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%204-Financial%20and%20Operational%20Analysis.png.png?raw=true)
 
 ---
 
