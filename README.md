@@ -55,7 +55,7 @@ The report provides interactive visual insights to support healthcare decision-m
 - Patient satisfaction insights
 - Disease and admission trends
 
-![Patient Insights](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%202-Doctors%20and%20Treatment%20Analysis.png.png?raw=true)
+![Patient Insights](https://github.com/subashree-kr-analytics/Healthcare-Operations-Patient-Outcome-Analytics/blob/main/Healthcare%20Report/Report%20Screenshots/Page%203-Patients%20Insights.png.png?raw=true)
 
 ---
 
